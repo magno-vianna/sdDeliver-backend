@@ -95,6 +95,7 @@ public class OrderDTO implements Serializable {
 	public List<ProductDTO> getProducts() {
 		return products;
 	}
-	
+
+
 	
 }
